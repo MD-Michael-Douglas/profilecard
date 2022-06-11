@@ -16,3 +16,5 @@ Código referente a video aula ministrada no Canal do YouTube - Guilherme Chinag
 Abraço à todos,
 
 Guilherme Chinaglia
+
+Utilizado o código de exemplo do guilherme para aperfeiçoar devenvolvimento com HTML e CSS.
